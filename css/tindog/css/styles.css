@@ -1,0 +1,184 @@
+#title .container-fluid{
+  background-color: #ff4c64;
+  padding: 3% 15%;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+  word-spacing: 2px;
+  overflow: hidden;
+  height: 1000px;
+  width: 1000%auto;
+}
+#title-text{
+  font-family: 'Montserrat', sans-serif;
+  font-size:3rem;
+  line-height: 1.5;
+  font-weight: 800;
+
+}
+.container-fluid{
+  padding: 3% 15%;
+  height: 1000px;
+  width: 100%;
+}
+
+
+.navbar-brand{
+  font-weight: 600;
+  font-size: 0.8rem;
+
+}
+.iphone6{
+  transform:rotateZ( 25deg);
+  padding-left: 200px;
+  padding-right: 10px;
+
+
+}
+
+.text-easy{
+  padding-left: 30px 15px;
+}
+#container2{
+  padding: 3% 15%;
+  height: 500px;
+  width: 100%;
+
+
+
+}
+.row1{
+  padding-top: 200px;
+
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 100px;
+}
+.easy-to-use{
+  padding: 5px 12px;
+}
+.Elite{
+padding: 5px 12px;
+}
+.work{
+  padding: 5px 12px;
+}
+.feature-box{
+  padding: 7% 15%;
+  text-align: center;
+
+}
+p{
+  color:#8f8f8f;
+  font-size: 1.2rem;
+padding: 1%;
+}
+
+h3{
+  font-size: 2.4rem;
+  font-family:'Montserrat', sans-serif;
+font-weight: 800;
+padding: 1%;
+
+
+}
+
+.icon{
+  margin-bottom: 2%;
+  color: #ef8172
+}
+
+.icon:hover {
+color:#ff4c68;
+margin-bottom: 1%;
+}
+
+#testimonials{
+  padding: 7% 15%;
+  text-align:
+  center;
+  background-color: #ef8172;
+  color: #fff;
+  font-family:'Montserrat'-sans-serif;
+  font-size: 3rem;
+
+}
+h2{
+  font-family:'Montserrat'-sans-serif;
+  font-size: 2.8rem;
+  padding: 50px;
+}
+.doggy{
+  font-family:'Montserrat'-sans-serif;
+  font-size: 3rem;
+}
+.doggy-pic{
+  width:10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+
+}
+.press-logo{
+  margin: 20px 20px 50px;
+  text-align: center;
+
+}
+.woman{
+  width:10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.woman-text{
+  font-family:'Montserrat'-sans-serif;
+  font-size: 3rem;
+}
+.card-group{
+
+      padding-top: 100px;
+      padding-bottom: 200px;
+      border-left-width: 50px;
+      padding-left: 50px;
+      padding-right: 50px;
+align-items: center;
+}
+.buttons{
+  align-items: center;
+  padding: 5px;
+}
+.card{
+  margin: 3%
+  padding:5px;
+
+}
+.text-center{
+  padding: 2%;
+  height: 10%;
+  width:15%
+}
+.card-title{
+  font-weight: 700;
+  font-family:'Montserrat'-sans-serif;
+  font-size: 1.6rem;
+}
+.planss{
+  font-size: 3rem;
+  font-weight: 800;
+}
+#footer{
+  background-color: #ef8172;
+  text-align: center;
+
+}
+#cta{
+  background-color: #ef8172;
+  text-align: center;
+
+}
+.Copyright{
+  color: white;
+  background-color: #ef8172;
+
+}
